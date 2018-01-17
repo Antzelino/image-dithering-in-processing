@@ -1,5 +1,5 @@
 # image-dithering-in-processing
-Small program in Processing for image dithering
+Small program in Processing for image dithering (Floyd-Steinberg dithering)
 
 This is a small program in Processing for image dithering.
 The amount of colours used depends on the X variable of the mouse's position.
