@@ -8,4 +8,4 @@ The amount of colours used depends on the X variable of the mouse's position.
 
 There is an example image along with the code, to see the results. The program expects a 512x512 image.
 
-When run, the left image is the input image and the right image is the dethered one.
+When run, the left image is the input image and the right image is the dithered one.
